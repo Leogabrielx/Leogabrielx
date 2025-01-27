@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola, soy LEONARDO GAMARRA! 👋
 
-<!--
-**Leogabrielx/Leogabrielx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador/a de software apasionado/a por la tecnología y el aprendizaje continuo. Me encanta crear soluciones innovadoras y trabajar en proyectos que desafíen mis habilidades. 🌱
 
-Here are some ideas to get you started:
+🚀 **Mis tecnologías favoritas**:
+- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
+- **Backend**: Node.js, Express, Python, Django
+- **Bases de datos**: MySQL, PostgreSQL, MongoDB
+- **Otros**: Git, Docker, CI/CD, Firebase, GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **En constante aprendizaje**:
+Siempre estoy buscando aprender algo nuevo. Actualmente, me encuentro aprendiendo sobre **AI y Machine Learning** y mejorando mis habilidades en **DevOps**.
+
+🌍 **Proyectos recientes**:
+- **[Clon Spotify](https://github.com/Leogabrielx/Clon-Spotify)**: 
+- **[Clon TikTok](https://github.com/Leogabrielx/Clon-tik-tok)**: 
+
+🔗 **Conéctemos**:
+- [Portafolio](https://tusitio.com)
+- [LinkedIn](https://www.linkedin.com/in/leonardogamarradev/)
+
+¡Estoy siempre abierto/a a colaborar en proyectos interesantes y aprender de otros desarrolladores!
+
